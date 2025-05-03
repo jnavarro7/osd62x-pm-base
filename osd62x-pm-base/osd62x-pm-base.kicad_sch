@@ -1,5 +1,60 @@
-(kicad_sch (version 20250114) (generator "eeschema") (generator_version "9.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "45b90a68-cf5c-4d95-91b2-d04264fee060")
+	(paper "A3")
+	(title_block
+		(title "osd62x-pm-base")
+		(rev "0.1")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 30.48)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "17829a45-b0b2-4bfd-af2a-115577bcb14c")
+		(property "Sheetname" "osd62x-pm-power"
+			(at 25.4 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 25.4 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
