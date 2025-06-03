@@ -51,6 +51,90 @@
 			)
 		)
 	)
+	(sheet
+		(at 25.4 55.88)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "84cfebeb-1567-44f9-bc7a-7bc59b79cf72")
+		(property "Sheetname" "ddr & gpmc interface"
+			(at 25.4 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr-gpmc.kicad_sch"
+			(at 25.4 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 43.18)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0696a47-c232-4171-8d87-f4bc0e973a8a")
+		(property "Sheetname" "clocks & reset"
+			(at 25.4 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clocksresets.kicad_sch"
+			(at 25.4 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

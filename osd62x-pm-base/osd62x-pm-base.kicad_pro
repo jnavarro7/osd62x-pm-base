@@ -415,6 +415,14 @@
     [
       "17829a45-b0b2-4bfd-af2a-115577bcb14c",
       "osd62x-pm-power"
+    ],
+    [
+      "c0696a47-c232-4171-8d87-f4bc0e973a8a",
+      "clocks & reset"
+    ],
+    [
+      "84cfebeb-1567-44f9-bc7a-7bc59b79cf72",
+      "ddr & gpmc interface"
     ]
   ],
   "text_variables": {}
