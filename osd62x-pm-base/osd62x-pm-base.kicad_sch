@@ -178,6 +178,48 @@
 		)
 	)
 	(sheet
+		(at 25.4 90.17)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df5c5bf8-28da-4311-a04c-cce46c46eb44")
+		(property "Sheetname" "usb0-usb1"
+			(at 25.4 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb0-usb1.kicad_sch"
+			(at 25.4 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 78.74)
 		(size 26.67 6.35)
 		(exclude_from_sim no)

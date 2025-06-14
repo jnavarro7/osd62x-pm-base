@@ -431,6 +431,10 @@
     [
       "e24d56ac-d679-4883-b1cf-e48912368fdd",
       "rgmii-mdio"
+    ],
+    [
+      "df5c5bf8-28da-4311-a04c-cce46c46eb44",
+      "usb0-usb1"
     ]
   ],
   "text_variables": {}
