@@ -52,6 +52,90 @@
 		)
 	)
 	(sheet
+		(at 25.4 115.57)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c61be75-b5de-4d5d-97ee-1973c509d4dd")
+		(property "Sheetname" "csi"
+			(at 25.4 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "csi.kicad_sch"
+			(at 25.4 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 102.87)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51a74b11-180a-4579-9971-38f562501d6d")
+		(property "Sheetname" "display"
+			(at 25.4 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 25.4 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 55.88)
 		(size 26.67 6.35)
 		(exclude_from_sim no)
@@ -94,6 +178,90 @@
 		)
 	)
 	(sheet
+		(at 25.4 138.43)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b763db6f-528e-4c9f-aa84-44a7eec5e337")
+		(property "Sheetname" "debug_control"
+			(at 25.4 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debug_control.kicad_sch"
+			(at 25.4 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 149.86)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b8e4e193-3640-43e8-88c9-d4b03a7b3e94")
+		(property "Sheetname" "misc_reserved_nc"
+			(at 25.4 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "misc_reserved_nc.kicad_sch"
+			(at 25.4 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 43.18)
 		(size 26.67 6.35)
 		(exclude_from_sim no)
@@ -131,6 +299,48 @@
 			(project "osd62x-pm-base"
 				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 127)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7028925-7382-472e-a799-9d9c71cd4741")
+		(property "Sheetname" "OSPI"
+			(at 25.4 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ospi.kicad_sch"
+			(at 25.4 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd62x-pm-base"
+				(path "/45b90a68-cf5c-4d95-91b2-d04264fee060"
+					(page "10")
 				)
 			)
 		)

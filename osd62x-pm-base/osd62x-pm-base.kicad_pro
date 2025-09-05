@@ -239,6 +239,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -435,6 +436,26 @@
     [
       "df5c5bf8-28da-4311-a04c-cce46c46eb44",
       "usb0-usb1"
+    ],
+    [
+      "51a74b11-180a-4579-9971-38f562501d6d",
+      "display"
+    ],
+    [
+      "3c61be75-b5de-4d5d-97ee-1973c509d4dd",
+      "csi"
+    ],
+    [
+      "c7028925-7382-472e-a799-9d9c71cd4741",
+      "OSPI"
+    ],
+    [
+      "b763db6f-528e-4c9f-aa84-44a7eec5e337",
+      "debug_control"
+    ],
+    [
+      "b8e4e193-3640-43e8-88c9-d4b03a7b3e94",
+      "misc_reserved_nc"
     ]
   ],
   "text_variables": {}
